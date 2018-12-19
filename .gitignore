@@ -4,6 +4,8 @@
 *.dll
 *.so
 *.dylib
+werkit
+.history
 
 # Test binary, build with `go test -c`
 *.test
